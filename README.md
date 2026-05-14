@@ -85,7 +85,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/TechKausthubh?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/LCKaust?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 <p align="center">
