@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=TechKausthubh&theme=Dark" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=LCKaust&theme=Dark" />
 </p>
 
 ---
