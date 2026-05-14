@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kausthubh Taranikanti 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer • Full Stack Developer</strong>
+  <strong>AI Engineer • Software Engineer • Full Stack Developer</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🚀 Interests
 
-- 🏗️ Building scalable backend systems & distributed architectures
+- 🏗️ Building agentic workflows, scalable backend systems & distributed architectures
 - 🤖 AI/ML integration into real-world products (LLMs, Document AI, GenAI workflows)
 - 💰 Fintech, lending platforms & automated decisioning
 - ⚡ Developer productivity & no-code/low-code tooling
